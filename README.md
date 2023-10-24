@@ -14,7 +14,6 @@
 🔧 **Tools & Skills:**
 - Git & GitHub
 - Visual Studio Code
-- RESTful APIs
 
 📫 **Connect with Me:**
 [LinkedIn](https://www.linkedin.com/in/fikkie-akbar-hidayat/)

@@ -16,7 +16,9 @@
 - Visual Studio Code
 
 📫 **Connect with Me:**
-[LinkedIn](https://www.linkedin.com/in/fikkie-akbar-hidayat/)
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/fikkie-akbar-hidayat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fikkie-akbar-hidayat/" height="30" width="40" /></a>
+</p>
 
 ⚡ **Fun Fact:**
 I believe that the best code is not just functional but also elegant and user-friendly.

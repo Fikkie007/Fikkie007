@@ -2,10 +2,6 @@
 
 🚀 **Web Developer | Passionate about Crafting Digital Experiences**
 
-👨‍💻 **Tech Stack:**
-- HTML, CSS, JavaScript
-- PHP
-
 🌱 **Currently Learning:**
 - Vue.js
 - Next.js
